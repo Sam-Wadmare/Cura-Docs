@@ -9,7 +9,6 @@ Cura Docs is a centralized medical documentation system designed to reduce clini
 - React
 - Node.js
 - Express
-- MongoDB
 
 ## Status
 In development
